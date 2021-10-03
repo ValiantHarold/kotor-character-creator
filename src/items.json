@@ -1,0 +1,1254 @@
+{
+	"items": {
+		"organic": {
+			"arm": {
+				"arm_band": [
+					{
+						"name": "Brejik's Arm Band"
+					}
+				],
+				"shield": [
+					{
+						"name": "Energy Shield"
+					},
+					{
+						"name": "Echani Dueling Shield"
+					},
+					{
+						"name": "Yusanis' Dueling Shield"
+					},
+					{
+						"name": "Sith Energy Shield"
+					},
+					{
+						"name": "Echani Shield"
+					},
+					{
+						"name": "Arkanian Energy Shield"
+					},
+					{
+						"name": "Verpine Prototype Shield"
+					},
+					{
+						"name": "Mandalorian Melee Shield"
+					},
+					{
+						"name": "Mandalorian Power Shield"
+					}
+				]
+			},
+			"belt": {
+				"belts": [
+					{
+						"name": "Brejik's Belt"
+					},
+					{
+						"name": "Power Belt"
+					},
+					{
+						"name": "Cardio-Regulator"
+					},
+					{
+						"name": "Verpine Cardio-Regulator"
+					},
+					{
+						"name": "Adrenaline Amplifier"
+					},
+					{
+						"name": "Advanced Adrenaline Amplifier"
+					},
+					{
+						"name": "Nerve Amplifier Belt"
+					},
+					{
+						"name": "Calrissian's Utility Belt"
+					},
+					{
+						"name": "Adrenaline Stimulator"
+					},
+					{
+						"name": "CNS Strength Enhancer"
+					},
+					{
+						"name": "Electrical Capacitance Shield"
+					},
+					{
+						"name": "Thermal Shield Generator"
+					}
+				],
+				"stealth field generators": [
+					{
+						"name": "Stealth Field Generator"
+					},
+					{
+						"name": "Sound Dampening Stealth Unit"
+					},
+					{
+						"name": "Advanced Stealth Unit"
+					},
+					{
+						"name": "Eriadu Stealth Unit"
+					},
+					{
+						"name": "GenoHaradan Stealth Unit"
+					},
+					{
+						"name": "Baragwin Stealth Unit"
+					}
+				]
+			},
+			"body": {
+				"robes": [
+					{
+						"name": "Jedi Robe"
+					},
+					{
+						"name": "Dark Jedi Robe"
+					},
+					{
+						"name": "Qel-Droma Robes"
+					},
+					{
+						"name": "Jedi Knight Robe"
+					},
+					{
+						"name": "Dark Jedi Knight Robe"
+					},
+					{
+						"name": "Jedi Master Robe"
+					},
+					{
+						"name": "Dark Jedi Master Robe"
+					},
+					{
+						"name": "Darth Revan's Robes"
+					},
+					{
+						"name": "Star Forge Robes"
+					}
+				],
+				"light armor": [
+					{
+						"name": "Combat Suit"
+					},
+					{
+						"name": "Zabrak Combat Suit"
+					},
+					{
+						"name": "Echani Light Armor"
+					},
+					{
+						"name": "Massassi Ceremonial Armor"
+					},
+					{
+						"name": "Cinnagar Weave Armor"
+					},
+					{
+						"name": "GenoHaradan Mesh Armor"
+					},
+					{
+						"name": "Darth Bandon's Fiber Armor"
+					},
+					{
+						"name": "Echani Fiber Armor"
+					},
+					{
+						"name": "Light Exoskeleton"
+					},
+					{
+						"name": "Heavy Combat Suit"
+					},
+					{
+						"name": "Bonadan Alloy Heavy Suit"
+					},
+					{
+						"name": "Zabrak Battle Armor"
+					},
+					{
+						"name": "Republic Mod Armor"
+					},
+					{
+						"name": "Reinforced Fiber Armor"
+					},
+					{
+						"name": "Baragwin Shadow Armor"
+					}
+				],
+				"medium armor": [
+					{
+						"name": "Military Suit"
+					},
+					{
+						"name": "Echani Battle Armor"
+					},
+					{
+						"name": "Cinnagar War Suit"
+					},
+					{
+						"name": "Verpine Fiber Mesh"
+					},
+					{
+						"name": "Arkanian Bond Armor"
+					},
+					{
+						"name": "Exar Kun's Light Battle Suit"
+					},
+					{
+						"name": "Davik's War Suit"
+					},
+					{
+						"name": "Environmental Bastion Armor"
+					},
+					{
+						"name": "Light Battle Armor"
+					},
+					{
+						"name": "Bronzium Light Battle Armor"
+					},
+					{
+						"name": "Powered Light Battle Armor"
+					},
+					{
+						"name": "Krath Heavy Armor"
+					},
+					{
+						"name": "Krath Holy Battle Suit"
+					},
+					{
+						"name": "Jamoh Hogra's Battle Armor"
+					},
+					{
+						"name": "Heavy Exoskeleton"
+					}
+				],
+				"heavy armor": [
+					{
+						"name": "Battle Armor"
+					},
+					{
+						"name": "Powered Battle Armor"
+					},
+					{
+						"name": "Mandalorian Armor"
+					},
+					{
+						"name": "Verpine Zal Alloy Mesh"
+					},
+					{
+						"name": "Calo Nord's Battle Armor"
+					},
+					{
+						"name": "Heavy Battle Armor"
+					},
+					{
+						"name": "Durasteel Heavy Armor"
+					},
+					{
+						"name": "Mandalorian Battle Armor"
+					},
+					{
+						"name": "Mandalorian Heavy Armor"
+					},
+					{
+						"name": "Mandalorian Assault Armor"
+					},
+					{
+						"name": "Jurgan Kalta's Power Suit"
+					},
+					{
+						"name": "Cassus Fett's Battle Armor"
+					}
+				]
+			},
+			"hand": {
+				"hands": [
+					{
+						"name": "Strength Gauntlets"
+					},
+					{
+						"name": "Eriadu Strength Amplifier"
+					},
+					{
+						"name": "Sith Power Gauntlets"
+					},
+					{
+						"name": "GenoHaradan Power Gloves"
+					},
+					{
+						"name": "Dominator Gauntlets"
+					},
+					{
+						"name": "Stabilizer Gauntlets"
+					},
+					{
+						"name": "Verpine Bond Gauntlets"
+					},
+					{
+						"name": "Brejik's Gloves"
+					},
+					{
+						"name": "Karakan Gauntlets"
+					},
+					{
+						"name": "Infiltrator Gloves"
+					},
+					{
+						"name": "Advanced Stabilizer Gloves"
+					},
+					{
+						"name": "Marka Ragnos' Gauntlets"
+					}
+				]
+			},
+			"head": {
+				"heads": [
+					{
+						"name": "Aural Amplifier"
+					},
+					{
+						"name": "Advanced Aural Amplifier"
+					},
+					{
+						"name": "Neural Band"
+					},
+					{
+						"name": "Verpine Headband"
+					},
+					{
+						"name": "Interface Band"
+					},
+					{
+						"name": "Demolitions Sensor"
+					},
+					{
+						"name": "Combat Sensor"
+					},
+					{
+						"name": "Pistol Targetting Optics"
+					},
+					{
+						"name": "Heavy Targetting Optics"
+					},
+					{
+						"name": "Davik's Visor"
+					},
+					{
+						"name": "Circlet of Saresh"
+					},
+					{
+						"name": "Tulak Hord's Mask"
+					}
+				],
+				"light head": [
+					{
+						"name": "Light-Scan Visor"
+					},
+					{
+						"name": "Motion Detection Goggles"
+					},
+					{
+						"name": "Bothan Perception Visor"
+					},
+					{
+						"name": "Verpine Ocular Enhancer"
+					},
+					{
+						"name": "Bothan Sensory Visor"
+					},
+					{
+						"name": "Sonic Nullifiers"
+					},
+					{
+						"name": "Stealth Field Reinforcement"
+					},
+					{
+						"name": "Interface Visor"
+					},
+					{
+						"name": "GenoHaradan Visor"
+					},
+					{
+						"name": "Advanced Bio-Stabilizer Mask"
+					},
+					{
+						"name": "Medical Interface Visor"
+					},
+					{
+						"name": "Advanced Agent Interface"
+					}
+				],
+				"medium head": [
+					{
+						"name": "Vacuum Mask"
+					},
+					{
+						"name": "Breath Mask"
+					},
+					{
+						"name": "Stabilizer Mask"
+					}
+				],
+				"heavy head": [
+					{
+						"name": "Sith Mask"
+					}
+				]
+			},
+			"implant": {
+				"level 1": [
+					{
+						"name": "Cardio Package"
+					},
+					{
+						"name": "Response Package"
+					},
+					{
+						"name": "Memory Package"
+					}
+				],
+				"level 2": [
+					{
+						"name": "Retinal Combat Implant"
+					},
+					{
+						"name": "Nerve Enhancement Package"
+					}
+				],
+				"level 3": [
+					{
+						"name": "Bavakar Cardio Package"
+					},
+					{
+						"name": "Beemon Package"
+					},
+					{
+						"name": "Cardio Power System"
+					},
+					{
+						"name": "Bio-Antidote Package"
+					},
+					{
+						"name": "Cyber Reaction System"
+					},
+					{
+						"name": "Gordulan Reaction System"
+					},
+					{
+						"name": "Navardan Regenerator"
+					},
+					{
+						"name": "Sith Regenerator"
+					},
+					{
+						"name": "Advanced Sensory Implant"
+					},
+					{
+						"name": "Advanced Bio-Stabilizer Implant"
+					},
+					{
+						"name": "Advanced Combat Implant"
+					},
+					{
+						"name": "Advanced Alacrity Implant"
+					}
+				]
+			},
+			"weapon": {
+				"blaster pistol": {
+					"blaster pistols": [
+						{
+							"name": "Blaster Pistol"
+						},
+						{
+							"name": "Mandalorian Blaster"
+						},
+						{
+							"name": "GenoHaradan Blaster"
+						},
+						{
+							"name": "Arkanian Pistol"
+						},
+						{
+							"name": "Zabrak Blaster Pistol"
+						},
+						{
+							"name": "Carth's Blaster"
+						},
+						{
+							"name": "Bendak's Blaster"
+						}
+					],
+					"heavy blasters": [
+						{
+							"name": "Heavy Blaster"
+						},
+						{
+							"name": "Arkanian Heavy Pistol"
+						},
+						{
+							"name": "Zabrak Tystel Mark III"
+						},
+						{
+							"name": "Mandalorian Heavy Pistol"
+						},
+						{
+							"name": "Cassus Fett's Heavy Pistol"
+						}
+					],
+					"hold out blasters": [
+						{
+							"name": "Hold Out Blaster"
+						},
+						{
+							"name": "Bothan Quick Draw"
+						},
+						{
+							"name": "Bothan Needler"
+						},
+						{
+							"name": "Sith Assassin Pistol"
+						}
+					],
+					"disruptor pistols": [
+						{
+							"name": "Disruptor Pistol"
+						},
+						{
+							"name": "Mandalorian Ripper"
+						}
+					],
+					"ion blasters": [
+						{
+							"name": "Ion Blaster"
+						},
+						{
+							"name": "Verpine Prototype Ion Blaster"
+						}
+					],
+					"sonic pistols": [
+						{
+							"name": "Sonic Pistol"
+						},
+						{
+							"name": "Bothan Shrieker"
+						}
+					]
+				},
+				"melee weapon": {
+					"stun batons": [
+						{
+							"name": "Stun Baton"
+						},
+						{
+							"name": "Bothan Stun Stick"
+						},
+						{
+							"name": "Bothan Chuka"
+						},
+						{
+							"name": "Vulkar Shock Stick"
+						},
+						{
+							"name": "Elder Rakatan Battle Wand"
+						},
+						{
+							"name": "Rakatan Battle Wand"
+						}
+					],
+					"gamorrean battleaxes": [
+						{
+							"name": "Gamorrean Battleaxe"
+						}
+					],
+					"short swords": [
+						{
+							"name": "Short Sword"
+						}
+					],
+					"long swords": [
+						{
+							"name": "Long Sword"
+						},
+						{
+							"name": "Silver Lined Sword"
+						},
+						{
+							"name": "Krath War Blade"
+						},
+						{
+							"name": "Naga Sadow's Poison Blade"
+						}
+					],
+					"vibroblades": [
+						{
+							"name": "Vibroblade"
+						},
+						{
+							"name": "Krath Blood Blade"
+						},
+						{
+							"name": "Mission's Vibroblade"
+						},
+						{
+							"name": "Echani Vibroblade"
+						},
+						{
+							"name": "Prototype Vibroblade"
+						},
+						{
+							"name": "Sanasiki's Blade"
+						}
+					],
+					"vibroswords": [
+						{
+							"name": "Vibrosword"
+						},
+						{
+							"name": "Krath Dire Sword"
+						},
+						{
+							"name": "Sith Tremor Sword"
+						},
+						{
+							"name": "Echani Foil"
+						},
+						{
+							"name": "GenoHaradan Poison Blade"
+						},
+						{
+							"name": "Bacca's Ceremonial Blade"
+						},
+						{
+							"name": "Baragwin Assault Blade"
+						}
+					],
+					"quarterstaffs": [
+						{
+							"name": "Quarterstaff"
+						}
+					],
+					"gaffi sticks": [
+						{
+							"name": "Gaffi Stick"
+						},
+						{
+							"name": "Chieftain's Gaffi Stick"
+						},
+						{
+							"name": "Raito's Gaderffii"
+						}
+					],
+					"wookiee warblades": [
+						{
+							"name": "Wookiee Warblade"
+						}
+					],
+					"double-bladed swords": [
+						{
+							"name": "Double-Bladed Sword"
+						},
+						{
+							"name": "Notched Steel Sword"
+						},
+						{
+							"name": "Echani Ritual Brand"
+						},
+						{
+							"name": "Krath Double Sword"
+						},
+						{
+							"name": "Ajunta Pall's Blade"
+						}
+					],
+					"vibro double-blades": [
+						{
+							"name": "Vibro Double-Blade"
+						},
+						{
+							"name": "Sith War Sword"
+						},
+						{
+							"name": "Yusanis' Brand"
+						}
+					]
+				},
+				"lightsaber": {
+					"double-bladed lightsabers": [
+						{
+							"name": "Double-Bladed Lightsaber"
+						}
+					],
+					"lightsabers": [
+						{
+							"name": "Lightsaber"
+						},
+						{
+							"name": "Malak's Lightsaber"
+						},
+						{
+							"name": "Sith Lightsaber"
+						}
+					],
+					"short lightsabers": [
+						{
+							"name": "Short Lightsaber"
+						}
+					]
+				},
+				"blaster rifle": {
+					"blaster carbines": [
+						{
+							"name": "Blaster Carbine"
+						},
+						{
+							"name": "Sith Assault Gun"
+						},
+						{
+							"name": "Cinnagaran Carbine"
+						},
+						{
+							"name": "Jurgan Kalta's Carbine"
+						},
+						{
+							"name": "Jamoh Hogra's Carbine"
+						}
+					],
+					"blaster rifles": [
+						{
+							"name": "Blaster Rifle"
+						},
+						{
+							"name": "Sith Sniper Rifle"
+						},
+						{
+							"name": "Mandalorian Assault Rifle"
+						},
+						{
+							"name": "Zabrak Battle Cannon"
+						},
+						{
+							"name": "Jurgan Kalta's Assault Rifle"
+						}
+					],
+					"bowcasters": [
+						{
+							"name": "Bowcaster"
+						},
+						{
+							"name": "Chuundar's Bowcaster"
+						},
+						{
+							"name": "Zaalbar's Bowcaster"
+						}
+					],
+					"disruptor rifles": [
+						{
+							"name": "Disruptor Rifle"
+						},
+						{
+							"name": "Zabrak Disruptor Cannon"
+						},
+						{
+							"name": "Baragwin Disruptor-X Weapon"
+						}
+					],
+					"ion rifles": [
+						{
+							"name": "Ion Rifle"
+						},
+						{
+							"name": "Bothan Droid Disruptor"
+						},
+						{
+							"name": "Verpine Droid Disruptor"
+						},
+						{
+							"name": "Baragwin Ion-X Weapon"
+						}
+					],
+					"sonic rifles": [
+						{
+							"name": "Sonic Rifle"
+						},
+						{
+							"name": "Bothan Discord Gun"
+						},
+						{
+							"name": "Arkanian Sonic Rifle"
+						}
+					]
+				},
+				"heavy weapon": {
+					"repeating blasters": [
+						{
+							"name": "Light Repeating Blaster"
+						},
+						{
+							"name": "Medium Repeating Blaster"
+						},
+						{
+							"name": "Blaster Cannon"
+						},
+						{
+							"name": "Baragwin Assault Gun"
+						}
+					],
+					"heavy repeating blasters": [
+						{
+							"name": "Heavy Repeating Blaster"
+						},
+						{
+							"name": "Mandalorian Heavy Repeater"
+						},
+						{
+							"name": "Ordo's Repeating Blaster"
+						},
+						{
+							"name": "Baragwin Heavy Repeating Blaster"
+						}
+					]
+				}
+			}
+		},
+		"droid": {
+			"utilities": {
+				"class 1": [
+					{
+						"name": "Computer Probe"
+					},
+					{
+						"name": "Security Interface Tool"
+					}
+				],
+				"class 2": [
+					{
+						"name": "Advanced Computer Tool"
+					},
+					{
+						"name": "Security Decryption Interface"
+					}
+				],
+				"class 3": [
+					{
+						"name": "Universal Computer Interface"
+					},
+					{
+						"name": "Security Domination Interface"
+					},
+					{
+						"name": "Advanced Droid Interface"
+					}
+				]
+			},
+			"sensor": {
+				"class 1": [
+					{
+						"name": "Droid Motion Sensors Type 1"
+					},
+					{
+						"name": "Basic Targeting Computer"
+					},
+					{
+						"name": "Sensor Probe"
+					}
+				],
+				"class 2": [
+					{
+						"name": "Droid Motion Sensors Type 2"
+					},
+					{
+						"name": "Advanced Targeting Computer"
+					},
+					{
+						"name": "Verpine Demolitions Probe"
+					}
+				],
+				"class 3": [
+					{
+						"name": "Droid Motion Sensors Type 3"
+					},
+					{
+						"name": "Superior Targeting Computer"
+					}
+				]
+			},
+			"special weapons": {
+				"stun rays": [
+					{
+						"name": "Stun Ray"
+					},
+					{
+						"name": "Baragwin Stun Ray"
+					},
+					{
+						"name": "Advanced Stun Ray"
+					}
+				],
+				"shield disruptors": [
+					{
+						"name": "Shield Disruptor"
+					},
+					{
+						"name": "Baragwin Shield Disruptor"
+					},
+					{
+						"name": "Advanced Shield Disruptor"
+					}
+				],
+				"flame throwers": [
+					{
+						"name": "Flame Thrower"
+					},
+					{
+						"name": "Baragwin Flame Thrower"
+					},
+					{
+						"name": "Advanced Flame Thrower"
+					}
+				],
+				"carbonite projectors": [
+					{
+						"name": "Carbonite Projector"
+					},
+					{
+						"name": "Carbonite Projector Mark II"
+					}
+				],
+				"gravity generators": [
+					{
+						"name": "Gravity Generator"
+					},
+					{
+						"name": "Advanced Gravity Generator"
+					}
+				]
+			},
+			"plating": {
+				"class 1": [
+					{
+						"name": "Droid Light Plating Type 1"
+					},
+					{
+						"name": "Droid Medium Plating Type 1"
+					},
+					{
+						"name": "Droid Heavy Plating Type 1"
+					}
+				],
+				"class 2": [
+					{
+						"name": "Droid Light Plating Type 2"
+					},
+					{
+						"name": "Droid Medium Plating Type 2"
+					},
+					{
+						"name": "Droid Heavy Plating Type 2"
+					}
+				],
+				"class 3": [
+					{
+						"name": "Droid Light Plating Type 3"
+					},
+					{
+						"name": "Droid Medium Plating Type 3"
+					},
+					{
+						"name": "Droid Heavy Plating Type 3"
+					},
+					{
+						"name": "Composite Heavy Plating"
+					}
+				]
+			},
+			"shield": {
+				"class 1": [
+					{
+						"name": "Energy Shield Level 1"
+					},
+					{
+						"name": "Baragwin Droid Shield"
+					},
+					{
+						"name": "Environment Shield Level 1"
+					}
+				],
+				"class 2": [
+					{
+						"name": "Energy Shield Level 2"
+					},
+					{
+						"name": "Environment Shield Level 2"
+					}
+				],
+				"class 3": [
+					{
+						"name": "Energy Shield Level 3"
+					},
+					{
+						"name": "Environment Shield Level 3"
+					},
+					{
+						"name": "Stabilizer Mask"
+					}
+				],
+				"heavy head": [
+					{
+						"name": "Sith Mask"
+					}
+				]
+			}
+		},
+		"utility": {
+			"medical items": {
+				"antidote kits": [
+					{
+						"name": "Antidote Kit"
+					}
+				],
+				"medpacs": [
+					{
+						"name": "Medpac"
+					},
+					{
+						"name": "Advanced Medpac"
+					},
+					{
+						"name": "Life Support Pack"
+					}
+				],
+				"repair kits": [
+					{
+						"name": "Repair Kit"
+					},
+					{
+						"name": "Advanced Repair Kit"
+					},
+					{
+						"name": "Construction Kit"
+					}
+				],
+				"squad recovery stims": [
+					{
+						"name": "Squad Recovery Stim"
+					}
+				]
+			},
+			"stimulants": {
+				"adrenal": [
+					{
+						"name": "Adrenal Strength"
+					},
+					{
+						"name": "Adrenal Alacrity"
+					},
+					{
+						"name": "Adrenal Stamina"
+					}
+				],
+				"hyper-adrenal": [
+					{
+						"name": "Hyper-adrenal Strength"
+					},
+					{
+						"name": "Hyper-adrenal Alacrity"
+					},
+					{
+						"name": "Hyper-adrenal Stamina"
+					}
+				],
+				"battle stimulants": [
+					{
+						"name": "Battle Stimulant"
+					},
+					{
+						"name": "Hyper-battle Stimulant"
+					},
+					{
+						"name": "Echani Battle Stimulant"
+					}
+				]
+			},
+			"mines": {
+				"flash mines": [
+					{
+						"name": "Minor Flash Mine"
+					},
+					{
+						"name": "Average Flash Mine"
+					},
+					{
+						"name": "Deadly Flash Mine"
+					}
+				],
+				"frag mines": [
+					{
+						"name": "Minor Frag Mine"
+					},
+					{
+						"name": "Average Frag Mine"
+					},
+					{
+						"name": "Deadly Frag Mine"
+					}
+				],
+				"gas mines": [
+					{
+						"name": "Minor Gas Mine"
+					},
+					{
+						"name": "Average Gas Mine"
+					},
+					{
+						"name": "Deadly Gas Mine"
+					}
+				],
+				"plasma mines": [
+					{
+						"name": "Minor Plasma Mine"
+					},
+					{
+						"name": "Average Plasma Mine"
+					},
+					{
+						"name": "Deadly Plasma Mine"
+					}
+				]
+			},
+			"grenades": [
+				{
+					"name": "Concussion Grenade"
+				},
+				{
+					"name": "Frag Grenade"
+				},
+				{
+					"name": "Adhesive Grenade"
+				},
+				{
+					"name": "CryoBan Grenade"
+				},
+				{
+					"name": "Ion Grenade"
+				},
+				{
+					"name": "Poison Grenade"
+				},
+				{
+					"name": "Sonic Grenade"
+				},
+				{
+					"name": "Plasma Grenade"
+				},
+				{
+					"name": "Thermal Detonator"
+				}
+			],
+			"upgrade items": {
+				"armor": [
+					{
+						"name": "Armor Reinforcement"
+					},
+					{
+						"name": "Mesh Underlay"
+					}
+				],
+				"ranged": [
+					{
+						"name": "Scope"
+					},
+					{
+						"name": "Improved Energy Cell"
+					},
+					{
+						"name": "Beam Splitter"
+					},
+					{
+						"name": "Hair Trigger"
+					}
+				],
+				"melee": [
+					{
+						"name": "Vibration Cell"
+					},
+					{
+						"name": "Durasteel Bonding Alloy"
+					},
+					{
+						"name": "Energy Projector"
+					}
+				],
+				"lightsaber crystals": [
+					{
+						"name": "Crystal, Blue"
+					},
+					{
+						"name": "Crystal, Yellow"
+					},
+					{
+						"name": "Crystal, Green"
+					},
+					{
+						"name": "Crystal, Violet"
+					},
+					{
+						"name": "Crystal, Red"
+					},
+					{
+						"name": "Heart of the Guardian"
+					},
+					{
+						"name": "Mantle of the Force"
+					}
+				],
+				"power crystals": [
+					{
+						"name": "Crystal, Rubat"
+					},
+					{
+						"name": "Crystal, Damind"
+					},
+					{
+						"name": "Crystal, Eralam"
+					},
+					{
+						"name": "Crystal, Sapith"
+					},
+					{
+						"name": "Crystal, Nextor"
+					},
+					{
+						"name": "Crystal, Opila"
+					},
+					{
+						"name": "Crystal, Jenruax"
+					},
+					{
+						"name": "Crystal, Phond"
+					},
+					{
+						"name": "Crystal, Luxum"
+					},
+					{
+						"name": "Crystal, Firkrann"
+					},
+					{
+						"name": "Crystal, Bondar"
+					},
+					{
+						"name": "Crystal, Sigil"
+					},
+					{
+						"name": "Crystal, Upari"
+					},
+					{
+						"name": "Crystal, Solari"
+					},
+					{
+						"name": "Krayt Dragon Pearl"
+					}
+				]
+			}
+		}
+	}
+}

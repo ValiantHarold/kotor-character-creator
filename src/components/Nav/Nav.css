@@ -1,0 +1,30 @@
+.primary-nav {
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 3rem;
+}
+
+.primary-nav__ul {
+	display: flex;
+	height: 100%;
+	align-items: center;
+	padding: 0;
+}
+
+.primary-nav__li {
+	margin: 1rem;
+}
+
+.primary-nav__a {
+	padding: 0.5rem;
+	border: 1px solid #00adff;
+	color: #00adff;
+	text-decoration: none;
+}
+
+.primary-nav__a:hover {
+	color: #05f018;
+	border: 1px solid #05f018;
+}
